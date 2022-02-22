@@ -12,14 +12,14 @@
 
 #### Lógica Condicional e Controle de Fluxos em Java
 
-#### Estruturas de Repetição e Arrays em Java - [Estruturas de Repetição e Arrays em Java](https://github.com/JoaoMaroni1004/DIO.Digital.Innovation.One-/tree/master/src)
+#### [Estruturas de Repetição e Arrays em Java](https://github.com/JoaoMaroni1004/DIO.Digital.Innovation.One-/tree/master/src)
 
 #### Reforçando o Conceito de Laços em Java
 
 #### Estrutura de dados em Java
 
-#### Trabalhando com Collections Java - [Implementando Collections e Streams com Java](https://github.com/JoaoMaroni1004/DIO.Digital-Inovation-One.Collections-e-Streams/tree/master/src/main/java/one/digitalinnovation)
+#### [Implementando Collections e Streams com Java](https://github.com/JoaoMaroni1004/DIO.Digital-Inovation-One.Collections-e-Streams/tree/master/src/main/java/one/digitalinnovation)
 
-#### Introdução a Orientação a Objetos com Java - [introdução a orientação a objetos com java](https://github.com/JoaoMaroni1004/Dio---Digital-Inovation-One.Introdu-o-a-orienta-o-a-objetos/tree/master/src/poo/Modelo)
+#### [Introdução a Orientação a Objetos com Java](https://github.com/JoaoMaroni1004/Dio---Digital-Inovation-One.Introdu-o-a-orienta-o-a-objetos/tree/master/src/poo/Modelo)
 
-#### Abstraindo um Bootcamp Usando Orientação a Objetos em Java [Abstraindo um Bootcamp Usando Orientação a Objetos](https://github.com/JoaoMaroni1004/DIO.Digital.Innovation.One-Abstraindo.um.Bootcamp.Usando.Orientacao.a.Objetos.em.Java.git)
+#### [Abstraindo um Bootcamp Usando Orientação a Objetos](https://github.com/JoaoMaroni1004/DIO.Digital.Innovation.One-Abstraindo.um.Bootcamp.Usando.Orientacao.a.Objetos.em.Java.git)
