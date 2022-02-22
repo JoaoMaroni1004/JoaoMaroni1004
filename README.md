@@ -8,16 +8,16 @@
 
 # Dio - Digital Inovation One :computer:
 
-#### 01 - Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+#### Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 
-#### 02 - Lógica Condicional e Controle de Fluxos em Java
+#### Lógica Condicional e Controle de Fluxos em Java
 
-#### 03 - Estruturas de Repetição e Arrays em Java - [Estruturas de Repetição e Arrays em Java](https://github.com/JoaoMaroni1004/DIO.Digital.Innovation.One-/tree/master/src)
+#### Estruturas de Repetição e Arrays em Java - [Estruturas de Repetição e Arrays em Java](https://github.com/JoaoMaroni1004/DIO.Digital.Innovation.One-/tree/master/src)
 
-#### 04 - Reforçando o Conceito de Laços em Java
+#### Reforçando o Conceito de Laços em Java
 
-#### 05 - Estrutura de dados em Java
+#### Estrutura de dados em Java
 
-#### 06 - Trabalhando com Collections Java - [Implementando Collections e Streams com Java](https://github.com/JoaoMaroni1004/DIO.Digital-Inovation-One.Collections-e-Streams/tree/master/src/main/java/one/digitalinnovation)
+#### Trabalhando com Collections Java - [Implementando Collections e Streams com Java](https://github.com/JoaoMaroni1004/DIO.Digital-Inovation-One.Collections-e-Streams/tree/master/src/main/java/one/digitalinnovation)
 
-#### 07 - Introdução a Orientação a Objetos com Java - [introdução a orientação a objetos com java](https://github.com/JoaoMaroni1004/Dio---Digital-Inovation-One.Introdu-o-a-orienta-o-a-objetos/tree/master/src/poo/Modelo)
+#### Introdução a Orientação a Objetos com Java - [introdução a orientação a objetos com java](https://github.com/JoaoMaroni1004/Dio---Digital-Inovation-One.Introdu-o-a-orienta-o-a-objetos/tree/master/src/poo/Modelo)
